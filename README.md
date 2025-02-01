@@ -130,16 +130,16 @@ python main.py
 <div align="center">
 
 ### Low Light Capturing  
-<img src="https://github.com/user-attachments/assets/ee19abb8-d971-4a8c-b954-eb8989a3646b" alt="Low Light Capturing" width="600px" />
+![image](https://github.com/user-attachments/assets/ee19abb8-d971-4a8c-b954-eb8989a3646b)
 
 ### Low Light Mode  
-<img src="https://github.com/user-attachments/assets/c9d5d197-1314-445c-845b-3fafa70080b7" alt="Low Light Mode" width="600px" />
+![image](https://github.com/user-attachments/assets/c9d5d197-1314-445c-845b-3fafa70080b7)
 
 ### Multi Face Detection  
-<img src="https://github.com/user-attachments/assets/f7e6217a-78b5-4855-bbd5-7b17e993d6e2" alt="Multi Face Detection" width="600px" />
+![image](https://github.com/user-attachments/assets/f7e6217a-78b5-4855-bbd5-7b17e993d6e2)
 
 ### Liveliness Detection  
-<img src="https://github.com/user-attachments/assets/449d08f5-763a-4234-86f3-a9f24d412ad8" alt="Liveliness Detection" width="600px" />
+![image](https://github.com/user-attachments/assets/449d08f5-763a-4234-86f3-a9f24d412ad8)
 
 </div>
 
