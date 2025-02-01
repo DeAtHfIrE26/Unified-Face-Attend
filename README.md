@@ -64,11 +64,11 @@
       <br>Python
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/firebase-icon.svg" alt="Firebase" width="65" height="65" />
+      <img src="https://firebase.google.com/static/images/brand-guidelines/logo-logomark.png" />
       <br>Firebase
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/opencv-icon.svg" alt="OpenCV" width="65" height="65" />
+      <img src="https://i.sstatic.net/RtNrs.png" />
       <br>OpenCV
     </td>
     <td align="center" width="96">
@@ -80,7 +80,7 @@
       <br>GitHub
     </td>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Tkinter_%28Python%29_logo.png" alt="Tkinter" width="65" height="65" />
+       <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
       <br>Tkinter
     </td>
   </tr>
@@ -130,16 +130,19 @@ python main.py
 <div align="center">
 
 ### Low Light Capturing  
-![image](https://github.com/user-attachments/assets/ee19abb8-d971-4a8c-b954-eb8989a3646b)
+![image](https://github.com/user-attachments/assets/0163a7c9-9917-4f20-b6a2-85c4bdfb9561)
 
 ### Low Light Mode  
-![image](https://github.com/user-attachments/assets/c9d5d197-1314-445c-845b-3fafa70080b7)
+![image](https://github.com/user-attachments/assets/d792558e-7059-440e-8a90-fc3a442da929)
+
 
 ### Multi Face Detection  
-![image](https://github.com/user-attachments/assets/f7e6217a-78b5-4855-bbd5-7b17e993d6e2)
+![image](https://github.com/user-attachments/assets/77fafa22-c6f7-4490-8170-043fc8bbd2da)
+
 
 ### Liveliness Detection  
-![image](https://github.com/user-attachments/assets/449d08f5-763a-4234-86f3-a9f24d412ad8)
+![image](https://github.com/user-attachments/assets/b786cdf4-5f78-41af-a4c4-72529d0f7708)
+
 
 </div>
 
